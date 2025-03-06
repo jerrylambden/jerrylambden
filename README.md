@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m Jerry — a career-changer with a passion for IT and cybersecurity. After working in Education for nearly a decade, my curiosity about technology grew into a hands-on learning journey. To turn my interest into real-world skills, I’ve built this home lab to:
+Hi, I’m Jerry — a career-changer with a passion for IT and cybersecurity. After working in Education for nearly a decade, my curiosity about technology grew into a hands-on learning journey. To turn my interest into real-world skills, I’ve built a home lab to:
 
 - Explore network security fundamentals.
 - Practice threat detection and incident response.
