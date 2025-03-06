@@ -1,13 +1,10 @@
 ## About Me
 
-My name is [Your Name], and I’m a career-changer with a passion for technology, problem-solving, and cybersecurity. After working in [Previous Industry], I decided to pursue a hands-on learning approach to network security and incident response by building my own home lab.
+Hi, I’m Jerry — a career-changer with a passion for IT and cybersecurity. After working in Education for nearly a decade, my curiosity about technology grew into a hands-on learning journey. To turn my interest into real-world skills, I’ve built this home lab to:
 
-This project is not just a technical exercise — it’s part of my personal journey into the world of Blue Team operations, where I hope to apply my curiosity, attention to detail, and analytical mindset to help organizations detect and respond to cyber threats.
-
-I’m documenting my learning to:
-- Track my progress.
-- Share with others who are also learning.
-- Demonstrate my practical skills to future employers.
+- Explore network security fundamentals.
+- Practice threat detection and incident response.
+- Document my learning and share my progress with others.
 
 
 # 🏡 Home Network & Cybersecurity Lab Project
