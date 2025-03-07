@@ -33,6 +33,7 @@ The goal is to **secure my home network**, build a **virtualized attack/defense 
 | Kali Linux VM | 2 CPUs, 4GB RAM, 40GB disk |
 | Network Adapter | NAT (for updates) + Host-Only (for internal traffic) |
 
+NOTE: I haven't enabled the second adapter yet as I'm still setting up. I'll enable it later when I do simulations on a separate VM.
 ---
 
 
